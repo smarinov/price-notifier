@@ -5,7 +5,7 @@ import time
 
 # Input the product's url
 url = 'https://example.com'
-# Input the e-mail from which you will automatically notifications
+# Input the e-mail from which you will automatically send notifications
 sender = 'test@mail.com'
 # Input your password
 password = 'test123'
